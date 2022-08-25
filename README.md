@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 
 
-<!--
-**rsd0ne/rsd0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Aerospace Engineer
 
-Here are some ideas to get you started:
+Hobbies:
+-Videogames
+-Soccer, Badminton, other sports
+-Watching Tv Shows
+-Hanging out with friends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This semester i'm intrested in learning more about coding and improving my coding skills as well as my typing skills (might as well be my spelling as well).
+
+Currently as a side project I am working on a hovercraft myself, it was something I started working on during the summer and its almost done. 
+
+
